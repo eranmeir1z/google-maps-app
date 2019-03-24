@@ -1,0 +1,61 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 35.258626, 32.893609 ]
+      },
+      "properties": {
+        "name": "Adrian",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/mechanic.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 35.246254, 32.901772 ]
+      },
+      "properties": {
+        "name": "Chase",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/mechanic.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 35.287237, 32.868418 ]
+      },
+      "properties": {
+        "name": "Lincoln",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/mechanic.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 35.23235, 32.903776 ]
+      },
+      "properties": {
+        "name": "Jayden",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/mechanic.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 35.279643, 32.901051 ]
+      },
+      "properties": {
+        "name": "Cameron",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/mechanic.png"
+      }
+    }
+  ]
+}
